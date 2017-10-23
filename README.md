@@ -1,6 +1,6 @@
 # Base16 Ocean Dark Theme Extended #
 
-![everything with the same look and feel](https://raw.githubusercontent.com/btd1337/vscode-ocean-dark-extended-theme/master/images/screenshot.png)
+![everything with the same look and feel](https://raw.githubusercontent.com/btd1337/vscode-ocean-next-extended-theme/master/images/screenshot.png)
 
 This theme is inspired in the react.js's website default sintax theme.
 
