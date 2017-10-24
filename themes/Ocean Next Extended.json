@@ -197,7 +197,7 @@
 			"name": "Tag",
 			"scope": "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
 			"settings": {
-				"foreground": "#EB606B"
+				"foreground": "#E3919C"
 			}
 		},
 		{
