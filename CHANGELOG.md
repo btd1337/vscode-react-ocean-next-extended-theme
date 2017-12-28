@@ -1,5 +1,13 @@
 # CHANGELOG #
 
+## 1.0.3 ##
+- Fix keyword control
+- Fix variable.other.object
+- Fix variable.other.object.property
+- Fix support.variable.property.dom
+- Fix punctuation.separator.key-value.css
+- Fix meta.export.default
+
 ## 1.0.2 ##
 Improved color syntax to match with official colors
 Added new screenshots

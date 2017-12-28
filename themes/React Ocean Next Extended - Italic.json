@@ -123,28 +123,35 @@
 		},
 		{
 			"name": "Variable",
-			"scope": "variable, variable.parameter",
+			"scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default",
 			"settings": {
 				"foreground": "#D4D4D4"
 			}
 		},
 		{
 			"name": "Keyword, Storage",
-			"scope": "keyword - meta.tag.attributes, keyword.operator.new, storage.type, storage.modifier, keyword.control.flow",
+			"scope": "keyword-meta.tag.attributes, keyword.operator.new, storage.type, storage.modifier, keyword.control",
 			"settings": {
 				"foreground": "#c5a5c5"
 			}
 		},
 		{
 			"name": "Operator, Misc",
-			"scope": "constant.other.color, meta.tag - meta.tag.without-attributes, meta.tag.attributes, keyword.other.template, keyword.other.substitution",
+			"scope": "constant.other.color, meta.tag - meta.tag.without-attributes, keyword.other.template, keyword.other.substitution",
 			"settings": {
 				"foreground": "#5FB3B3"
 			}
 		},
 		{
+			"name": "Operator, Misc",
+			"scope": "meta.tag.attributes - meta.embedded.expression",
+			"settings": {
+				"foreground": "#cecece"
+			}
+		},
+		{
 			"name": "Operator Punctuation",
-			"scope": "punctuation - punctuation.definition.string.begin, punctuation.separator.key-value, punctuation.definition.block, punctuation.definition.parameters, punctuation.terminator.statement, punctuation.separator.comma, punctuation.definition.tag, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, punctuation.separator.inheritance.php ",
+			"scope": "punctuation - punctuation.definition.string.begin, punctuation.separator.key-value-punctuation.separator.key-value.css, punctuation.definition.block, punctuation.definition.parameters, punctuation.terminator.statement, punctuation.separator.comma, punctuation.definition.tag, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, punctuation.separator.inheritance.php ",
 			"settings": {
 				"foreground": "#5FB3B3"
 			}
@@ -158,7 +165,7 @@
 		},
 		{
 			"name": "Operator Assignment",
-			"scope": "keyword.operator.assignment - meta.tag.attributes, keyword.operator.arithmetic",
+			"scope": "keyword.operator.assignment - meta.tag.attributes, keyword.operator.arithmetic, punctuation.separator.key-value.css",
 			"settings": {
 				"foreground": "#d7deea"
 			}
@@ -172,7 +179,7 @@
 		},
 		{
 			"name": "Tag",
-			"scope": "meta.tag.without-attributes, meta.jsx.children",
+			"scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
 			"settings": {
 				"foreground": "#d4d4d4"
 			}
@@ -182,6 +189,34 @@
 			"scope": "entity.name.function, support.function, variable.function, keyword.other.special-method, meta.block-level",
 			"settings": {
 				"foreground": "#79b6f2"
+			}
+		},
+		{
+			"name": "Function, Special Method, Block Level",
+			"scope": "variable.other.object",
+			"settings": {
+				"foreground": "#79b6f2"
+			}
+		},
+		{
+			"name": "Function, Special Method, Block Level",
+			"scope": "meta.export.default",
+			"settings": {
+				"foreground": "#79b6f2"
+			}
+		},
+		{
+			"name": "Function, Special Method, Block Level",
+			"scope": "meta.export.default",
+			"settings": {
+				"foreground": "#79b6f2"
+			}
+		},
+		{
+			"name": "Function, Special Method",
+			"scope": "variable.other.object.property, support.variable.property.dom",
+			"settings": {
+				"foreground": "#d7deea"
 			}
 		},
 		{
@@ -358,7 +393,7 @@
 		},
 		{	
 			"name": "Internal Variable",
-			"scope": "meta.definition.variable",
+			"scope": "meta.definition.variable-entity.name.function",
 			"settings": {
 				"foreground": "#d4d4d4"
 			}
