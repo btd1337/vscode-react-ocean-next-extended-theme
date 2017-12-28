@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/btd1337/vscode-ocean-next-extended-theme"
+		"url": "https://github.com/btd1337/vscode-react-ocean-next-extended-theme"
 	},
 	"author": {
 		"name": "Helder Bertoldo",
@@ -13,7 +13,7 @@
 		"url": "https://github.com/btd1337/"
 	},
 	"bugs": {
-		"url": "https://github.com/btd1337/vscode-ocean-next-extended-theme/issues",
+		"url": "https://github.com/btd1337/vscode-react-ocean-next-extended-theme/issues",
 		"email": "helder.bertoldo@gmail.com"
 	},
 	"publisher": "btd1337",
@@ -31,7 +31,7 @@
 		"dark",
 		"react"
 	],
-	"homepage": "https://github.com/btd1337/vscode-ocean-next-extended-theme/",
+	"homepage": "https://github.com/btd1337/vscode-react-ocean-next-extended-theme/",
 	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#2b303b",

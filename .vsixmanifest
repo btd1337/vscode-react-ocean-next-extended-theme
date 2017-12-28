@@ -12,14 +12,14 @@
       <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.11.0" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/btd1337/vscode-ocean-next-extended-theme" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/btd1337/vscode-ocean-next-extended-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/btd1337/vscode-ocean-next-extended-theme" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
         
       
-      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/btd1337/vscode-ocean-next-extended-theme/issues" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/btd1337/vscode-ocean-next-extended-theme" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme/issues" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#2b303b" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
