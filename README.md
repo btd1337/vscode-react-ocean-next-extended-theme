@@ -1,6 +1,12 @@
 # React Ocean Next Theme Extended #
 
-![everything with the same look and feel](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot.png)
+## Normal Version
+![everything with the same look and feel](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot1.png)
+
+![screenshot 2](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot2.png)
+
+## Italic Version
+![italic version](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot3.png)
 
 This theme is inspired in the react.js's website default sintax theme.
 
@@ -13,6 +19,9 @@ Feel the vibes of the ocean dark theme inside every file, terminal, file list, p
 Based on: 
 
 [Base16](https://chriskempson.github.io/base16/) Ocean theme by [Chris Kempson](http://chriskempson.com).
+
 [Base16 Ocean Dark Theme Extended](https://marketplace.visualstudio.com/items?itemName=kleber-swf.ocean-dark-extended) Visual Studio Code Theme by Kleber Silva
+
 [Base16 Ocean](https://marketplace.visualstudio.com/items?itemName=golf1052.theme-base16-ocean) Visual Studio Code Theme by Sanders Lauture.
+
 [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) One Dark Pro theme by zhuangtongfa
