@@ -1,5 +1,8 @@
 # CHANGELOG #
 
+## 1.0.3-1 ##
+- entity.other.inherited-class
+
 ## 1.0.3 ##
 - Fix keyword control
 - Fix variable.other.object

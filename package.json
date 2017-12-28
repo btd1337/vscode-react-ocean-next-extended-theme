@@ -2,7 +2,7 @@
 	"name": "react-ocean-next-extended",
 	"displayName": "React Ocean Next Extended Theme",
 	"description": "React Ocean Next Theme extended to Visual Studio Code workbench",
-	"version": "1.0.3",
+	"version": "1.0.3-1",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/btd1337/vscode-react-ocean-next-extended-theme"
