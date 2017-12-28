@@ -1,8 +1,8 @@
 {
-	"name": "ocean-next-extended",
-	"displayName": "Base16 Ocean Next Extended Theme",
-	"description": "Base16 Ocean Next Theme extended to Visual Studio Code workbench",
-	"version": "1.2.1",
+	"name": "react ocean-next-extended",
+	"displayName": "React Ocean Next Extended Theme",
+	"description": "React Ocean Next Theme extended to Visual Studio Code workbench",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/btd1337/vscode-ocean-next-extended-theme"
@@ -29,7 +29,7 @@
 		"ocean",
 		"next",
 		"dark",
-		"base16"
+		"react"
 	],
 	"homepage": "https://github.com/btd1337/vscode-ocean-next-extended-theme/",
 	"icon": "images/icon.png",
@@ -40,9 +40,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ocean Next Extended",
+				"label": "React Ocean Next Extended",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Ocean Next Extended.json"
+				"path": "./themes/React Ocean Next Extended.json"
+			},
+			{
+				"label": "React Ocean Next Extended - Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/React Ocean Next Extended - Italic.json"
 			}
 		]
 	},

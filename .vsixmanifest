@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="ocean-next-extended" Version="0.1" Publisher="btd1337"/>
-    <DisplayName>Base16 Ocean Next Extended Theme</DisplayName>
-    <Description xml:space="preserve">Base16 Ocean Next Theme extended to Visual Studio Code workbench</Description>
-    <Tags>theme,workbench,ocean,dark,base16,color-theme</Tags>
+    <Identity Language="en-US" Id="react-ocean-next-extended" Version="1.0" Publisher="btd1337"/>
+    <DisplayName>React Ocean Next Extended Theme</DisplayName>
+    <Description xml:space="preserve">React Ocean Next Theme extended to Visual Studio Code workbench</Description>
+    <Tags>theme,workbench,ocean,next,dark,react,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
     <Badges></Badges>
