@@ -52,5 +52,10 @@
 	},
 	"scripts": {
 		"build": "vsce package"
+	},
+	"__metadata": {
+		"id": "90e33a1a-3b06-406d-bd36-fd54cccb3382",
+		"publisherId": "0574ecf9-3200-4036-a258-a3db4fdc98c0",
+		"publisherDisplayName": "Helder Bertoldo"
 	}
 }

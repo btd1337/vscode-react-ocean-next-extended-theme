@@ -1,0 +1,12 @@
+/* eslint-disable */
+
+.colors {
+	blue1: #79b6f2;
+	blue2: #5a9bcf;		/* constants */
+	green1: #5FB3B3;	/* punctation */
+	green2: #8dc891;	/* strings */
+	purple: #c5a5c5;
+	white1: #d4d4d4;	/* variables */
+	white2: #d7deea;	/* operators */
+	yellow: #fac863;
+}

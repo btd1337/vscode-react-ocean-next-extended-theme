@@ -1,5 +1,10 @@
 # CHANGELOG #
 
+## 1.0.2 ##
+Improved color syntax to match with official colors
+Added new screenshots
+Updated Readme
+
 ## 1.0.0 ##
 Improved color syntax to match with official colors
 Theme separated in normal and italic version

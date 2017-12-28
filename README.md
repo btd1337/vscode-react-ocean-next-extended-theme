@@ -1,12 +1,18 @@
 # React Ocean Next Theme Extended #
 
-## Normal Version
-![everything with the same look and feel](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot1.png)
+> A nice theme for those who appreciate style!
 
-![screenshot 2](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot2.png)
+## Normal Version
+![Screenshot Normal 1](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot1.png)
+
+![Screenshot Normal 2](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot2.png)
+
+![Screenshot Normal 3](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot3.png)
 
 ## Italic Version
-![italic version](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot3.png)
+![Screenshot Normal 4](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot4.png)
+
+![Screenshot Normal 5](https://raw.githubusercontent.com/btd1337/vscode-react-ocean-next-extended-theme/master/images/screenshot5.png)
 
 This theme is inspired in the react.js's website default sintax theme.
 
@@ -14,7 +20,7 @@ Use the React Ocean Next theme that you already love not just in the editor, but
 
 Feel the vibes of the ocean dark theme inside every file, terminal, file list, popup and error.
 
-> I am 0.27% more productive with this theme - (Not real, but totally possible testimonial)
+> Become more productive with this theme!
 
 Based on: 
 
