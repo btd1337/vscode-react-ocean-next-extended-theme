@@ -1,6 +1,5 @@
 MIT License
 
-Copyright (c) 2017 Kleber Lopes da Silva
 Copyright (c) 2017 Helder Bertoldo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

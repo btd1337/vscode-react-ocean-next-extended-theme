@@ -14,8 +14,7 @@
       
         <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
         <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
-        
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme" />
         
       
       <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/btd1337/vscode-react-ocean-next-extended-theme/issues" />
