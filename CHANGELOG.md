@@ -1,6 +1,6 @@
 # CHANGELOG #
 
-## 1.0.3-1 ##
+## 1.0.4 ##
 - entity.other.inherited-class
 
 ## 1.0.3 ##
